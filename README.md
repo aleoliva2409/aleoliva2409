@@ -29,9 +29,6 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-
-<h1><img src="https://user-images.githubusercontent.com/54723628/119598693-c95f5680-bdb9-11eb-89cd-2fc54c1f5e42.png" alt="banner"/></h1>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juanmachabaudie&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachabaudie" /> </p>
 
 <h3 align="center">Skills:</h3>
