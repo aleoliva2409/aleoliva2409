@@ -1,4 +1,12 @@
-<h1><img src="https://user-images.githubusercontent.com/70116152/124040428-4b572680-d9db-11eb-831a-3b1657ec8964.png" alt="banner" height="300px" width="100%"/></h1>
+<style>
+  .banner {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+  }
+</style>
+
+<h1><img src="https://user-images.githubusercontent.com/70116152/124040428-4b572680-d9db-11eb-831a-3b1657ec8964.png" alt="banner" class="banner"/></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
