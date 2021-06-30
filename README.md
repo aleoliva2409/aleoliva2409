@@ -1,5 +1,4 @@
 <h1><img src="https://user-images.githubusercontent.com/54723628/119598693-c95f5680-bdb9-11eb-89cd-2fc54c1f5e42.png" alt="banner"/></h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
