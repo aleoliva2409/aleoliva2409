@@ -1,4 +1,4 @@
-<h1><img src="https://user-images.githubusercontent.com/70116152/124040428-4b572680-d9db-11eb-831a-3b1657ec8964.png" alt="banner"/></h1>
+<h1><img src="https://user-images.githubusercontent.com/70116152/124040428-4b572680-d9db-11eb-831a-3b1657ec8964.png" alt="banner" width="200px"/></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
