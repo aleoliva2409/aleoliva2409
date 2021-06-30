@@ -1,12 +1,4 @@
-<style>
-  .banner {
-    width: 100%;
-    height: 350px;
-    object-fit: cover;
-  }
-</style>
-
-<h1><img src="https://user-images.githubusercontent.com/70116152/124040428-4b572680-d9db-11eb-831a-3b1657ec8964.png" alt="banner" class="banner"/></h1>
+<h1><img src="https://user-images.githubusercontent.com/70116152/124040975-5eb6c180-d9dc-11eb-89e6-dacb866d539c.png" alt="banner" /></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
