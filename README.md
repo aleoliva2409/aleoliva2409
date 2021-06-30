@@ -51,13 +51,3 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing](https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing)
 
 - ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
-<hr/>
-<p align ="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=juanmachabaudie&show_icons=true&theme=radical&line_height=33">
-</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmachabaudie&show_icons=true&locale=en&layout=compact" alt="juanmachabaudie" /></p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp" width="150"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
-</p>
