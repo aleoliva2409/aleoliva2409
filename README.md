@@ -1,6 +1,8 @@
 <h1><img src="https://user-images.githubusercontent.com/70116152/124040975-5eb6c180-d9dc-11eb-89e6-dacb866d539c.png" alt="banner" /></h1>
+<div>
 <span align="left" width="49%"> <img src="https://komarev.com/ghpvc/?username=aleoliva2409&label=Profile%20views&color=0e75b6&style=flat" alt="aleoliva2409" /> </span>
 <span align="right" width="49%"> <a href="https://twitter.com/aleoliva2409" target="blank"><img src="https://img.shields.io/twitter/follow/aleoliva2409?logo=twitter&style=for-the-badge" alt="aleoliva2409" /></a> </span>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
