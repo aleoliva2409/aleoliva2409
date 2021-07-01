@@ -39,6 +39,6 @@
 
 - 📫 How to reach me **alejandro.oliva2409@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-driv](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1iHpYplg93FPCiOOj70Uawc2YZCxFkMu7/view?usp=sharing)
 
 - ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
