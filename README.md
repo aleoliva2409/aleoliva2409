@@ -30,16 +30,15 @@
 </p>
 <hr/>
 
-- 🔭 I’m currently working on **Healthy Henry**
 
-- 🌱 I’m currently learning **React Native, MaterialUI**
+- 🌱 I’m currently learning **Java, Material UI, TypeScript**
 
 - 🤝 I’m looking for help with **anything that makes you grow**
 
 - 💬 Ask me about: **Javascript, NodeJS, ExpressJS, ReactJS, ReduxJS and anything about frontend design**
 
-- 📫 How to reach me **juanmanuelchabaudie@gmail.com**
+- 📫 How to reach me **alejandro.oliva2409@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing](https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
