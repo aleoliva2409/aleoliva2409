@@ -33,12 +33,18 @@
 
 - 🌱 I’m currently learning **Java, Material UI, TypeScript**
 
-- 🤝 I’m looking for help with **anything that makes you grow**
-
-- 💬 Ask me about: **Javascript, NodeJS, ExpressJS, ReactJS, ReduxJS and anything about frontend design**
+- 💬 Ask me about: **JavaScript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL**
 
 - 📫 How to reach me **alejandro.oliva2409@gmail.com**
 
-- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1iHpYplg93FPCiOOj70Uawc2YZCxFkMu7/view?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1iHpYplg93FPCiOOj70Uawc2YZCxFkMu7/view?usp=sharing)
 
-- ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
+- ⚡ Fun fact: ****
+
+<hr/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleoliva2409&show_icons=true&locale=en&layout=compact" alt="aleoliva2409" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleoliva2409&show_icons=true&locale=en" alt="aleoliva2409" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleoliva2409&" alt="aleoliva2409" /></p>
